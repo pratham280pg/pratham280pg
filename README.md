@@ -1,3 +1,4 @@
+https://readme-typing-svg.demolab.com/demo/?size=25&color=00D9A6&center=true&vCenter=true&multiline=true&lines=Hi%2C+I'm+Pratham+Gupta;Aspiring+Data+Analyst;Python+%26+SQL+Enthusiast;Turning+Data+into+Insights
 # 💫 About Me:
 🔭 **I'm currently working on:** Python projects and Exploratory Data Analysis (EDA)<br><br>👯 **I'm looking to collaborate on:** Beginner-friendly Python, SQL, and Data Analytics projects<br><br>🤝 **I'm looking for help with:** Improving my Python, SQL, statistics, and data visualization skills<br><br>🌱 **I'm currently learning:** Python, SQL, Pandas, NumPy, Statistics, and Data Visualization<br><br>💬 **Ask me about:** Python basics, SQL, Data Cleaning, and Exploratory Data Analysis<br><br>⚡ **Fun fact:** I'm a commerce student exploring how data can solve real-world business problems.<br>
 
